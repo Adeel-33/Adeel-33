@@ -1,7 +1,7 @@
 - Hi, I’m @Adeel-33
 -  I’m interested in programing
 -  I’m currently learning JavaScript
-- 
+- I am a Muslim
   
 
 <!---
